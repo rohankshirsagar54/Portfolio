@@ -10,11 +10,11 @@ render(){
              <Grid>
                   <Cell col={4}>
                       <div style={{textAlign: 'center'}}>
-                          <img src="/images/profile.JPG"  alt="profiles" style={{height:'200px'}}></img>
+                          <img src="/images/r5.JPG"  alt="profiles" style={{height:'300px'}}></img>
                       </div>
 
-                      <h2 style={{paddingTop: '2em'}}>Rohan Kshirsgar</h2>
-                      <h4 style={{color: 'grey'}}>Programmer</h4>
+                      <h2 style={{paddingTop: '1em'}}>Rohan Kshirsgar</h2>
+                      <h4 style={{color: 'grey'}}>Software Developer</h4>
                       <hr style={{borderTop: '3px solid dotted #833fb2', width: '50%'}}></hr>
                           <p>Software Developer having experience more than 1 year in Java and Spring Framework. 
                               Have a work experience with large and small teams in a fast-paced innovative and 
@@ -32,7 +32,7 @@ render(){
                               <p>rohanKshirsagar54@gmail.com</p> 
 
                               <h5>WebSite</h5>
-                              <p>XYZ</p> 
+                              <a href=" https://rohan-kshirsagar.netlify.app" target="_blank" rel="noopener noreferrer">Rohan Kshirsagar Portfolio</a> 
                   </Cell>
 
 

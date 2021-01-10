@@ -9,15 +9,15 @@ render(){
             <Cell col={6}>
 
              <h2>ROHAN KSHIRSAGAR</h2>
-             <img src="/images/profile.JPG" alt="profiles" style={{height: '250px'}}></img>
+             <img src="/images/r4.JPG" alt="profiles" style={{height: '250px'}}></img>
              <br/>
              <br/>
 
 
               <p sytle={{width: '75%', margin: 'auto', paddingTop: '1em'}}> Software Developer having experience more than 1 year in Java and Spring Framework. 
-                  Have a work experience with large and small teams in a fast-paced innovative and agile environment. 
-                  Team player and an efficient leader committed to providing quality work with keen attention towards 
-                  detail in pressure situations.   </p>
+              Have a desire to possess a high career growth through a continuous process of learning 
+              for achieving goal and keeping myself dynamic in the changing scenario to become a 
+              successful professional and leading to best opportunity.</p>
             </Cell>
             <Cell col={6}>
                 <h2>Contact Me</h2>

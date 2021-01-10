@@ -7,7 +7,7 @@ render(){
         <div style={{width: '100%', margin: 'auto'}}>
         <Grid className="landing-grid">
             <Cell col={12}>
-                <img src="/images/profile.JPG"  alt="profiles" className="pro-img"/>
+                <img src="/images/r6.JPG"  alt="profiles" className="pro-img"/>
                  <div className="banner-text">
                     <h1>Full Stack Developer</h1>
                     <hr/> 
