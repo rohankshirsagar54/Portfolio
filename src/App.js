@@ -23,6 +23,7 @@ function App() {
                 <Link to="/project">Projects</Link>
                 <Link to="/aboutme">About Me</Link>
                 <Link to="/contact">Contacts</Link>
+                <a href="/images/Rohan Kshirsagar Resume.pdf" target="_blank" rel="noopener noreferrer" download>Download Resume</a>
             </Navigation>
         </Drawer>
         <Content>

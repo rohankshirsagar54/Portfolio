@@ -33,7 +33,7 @@ render(){
   </ListItem>
 
   <ListItem>
-    <ListItemContent style={{fontSize: '25px', fontFamily: 'Lora'}}>
+    <ListItemContent className="text-content" style={{fontSize: '25px', fontFamily: 'Lora', overflowX: 'visible'}}>
         
         <i className="fa fa-envelope" aria-hidden="true"/>
         rohankshirsagar54@gmail.com</ListItemContent>

@@ -125,7 +125,7 @@ background: 'url{https://www.andreasreiterer.at/wp-content/uploads/2017/11/react
 
     else if(this.state.activeTab===1){
         return (
-            <div className="project-grid col-md-6 col-lg-4">
+            <div className="project-grids col-md-6 col-lg-4">
                 
 
 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
@@ -174,7 +174,7 @@ background: 'url{https://www.andreasreiterer.at/wp-content/uploads/2017/11/react
 
     else if(this.state.activeTab===2){
         return (
-            <div className="project-grid col-md-6 col-lg-4">
+            <div className="project-gridss col-md-6 col-lg-4">
                 
 
 <Card shadow={5} style={{minWidth: '450', margin: 'auto'}}>
